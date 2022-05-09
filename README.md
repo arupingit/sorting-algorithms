@@ -1,2 +1,3 @@
-# sorting-algorithms
-Sorting Algorithms implementation in Java
+# Sorting Algorithms implementation in Java
+
+1. Bubble Sort
