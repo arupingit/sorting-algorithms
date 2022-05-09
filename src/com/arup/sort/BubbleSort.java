@@ -10,6 +10,7 @@ public class BubbleSort {
 	
 	/**
 	 * Bubble Sort
+	 * Time Complexity is (n^2)
 	 * @param input
 	 */
 	public static void bubbleSort(int[] input){
