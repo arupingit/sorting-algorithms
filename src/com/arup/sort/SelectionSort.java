@@ -10,7 +10,7 @@ public class SelectionSort {
 
 	/**
 	 * Selection Sort
-	 * Time Complexity in (n^2) 
+	 * Time Complexity in O(n^2) 
 	 * @param input
 	 */
 	public static void selectionSort(int[] input){

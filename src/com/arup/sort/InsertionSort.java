@@ -8,6 +8,11 @@ public class InsertionSort {
 		Util.printArray(i);
 	}
 	
+	/**
+	 * Insersion Sort
+	 * Time complexiy O(n^2)
+	 * @param input
+	 */
 	public static void insertionSort(int[] input){
 		for(int i=1;i<input.length;i++){
 			int current = input[i];
